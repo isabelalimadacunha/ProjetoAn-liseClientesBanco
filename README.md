@@ -17,7 +17,7 @@ Análise dos dados de clientes para identificar padrões e possíveis motivos de
 ## Como Executar
 1. Clone o repositório:
    ```bash
-   git clone <url-do-repositorio>
+   git clone https://github.com/isabelalimadacunha/ProjetoAnaliseClientesBanco.git
 2. Instale as dependências necessárias:
     ```bash
    pip install pandas plotly kaleido
